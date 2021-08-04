@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://expensiveluxurycars.herokuapp.com/host-https-expensiveluxurycars.com/sitemap_index.xml
+Sitemap: https://expensiveluxurycars.herokuapp.com/comic-sitemap.xml
